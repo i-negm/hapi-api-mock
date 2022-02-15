@@ -33,6 +33,9 @@ Server running on http://localhost:3000
 Open postman and make a GET request for `http://localhost:3000/`
 You should receive `Hello World`
 
+![postman-helloworld](./docs/imgs/postman-helloworld.png)
+
+
 ## More info
 
 You can check the official website tutorials - https://hapi.dev/tutorials
